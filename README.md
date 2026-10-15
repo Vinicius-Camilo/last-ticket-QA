@@ -66,6 +66,11 @@ This case study represents findings from a specific testing session. The issues 
 
 ## Disclaimer
 
-This is an independent QA case study based on a gameplay testing session. It is not an official QA report commissioned by the developer, and it does not imply employment or affiliation with the game studio.
+The testing session was conducted through Play2Review, a platform that connects game developers with testers to evaluate their projects.
 
-The findings reflect observations made during the session and should not be interpreted as confirmation that the same issues exist in the current build.
+During this activity, I performed manual exploratory testing on Last Ticket (v1.0.0), documenting issues related to collision detection, character movement, object interaction, and in-game behavior.
+
+The developer's feedback highlighted my identification of critical bugs and glitches. The developer also responded to the findings, suggesting that an update might have affected the game's sequence handling.
+
+Note: The issues documented in this case study reflect the version tested and have not been verified against subsequent releases.
+This is an independent QA case study based on a gameplay testing session. It is not an official QA report commissioned by the developer, and it does not imply employment or affiliation with the game studio.
